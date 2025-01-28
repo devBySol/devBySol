@@ -33,5 +33,5 @@
 - LinkedIn: [https://www.linkedin.com/in/yeseol/](https://www.linkedin.com/in/yeseol/)
 
 ### GitHub Stats:
-<img src="https://github-readme-streak-stats.herokuapp.com?user=devBySol&theme=dark" alt="GitHub Streak" width=48%/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devBySol&theme=dark)](https://git.io/streak-stats)
 
