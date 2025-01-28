@@ -1,8 +1,6 @@
 # Hi there 👋
 
 ## Skills:
-[![Skills](https://skillicons.dev/icons?i=js,ts,html,css,cs,react,reactnative,nextjs,nodejs,express,expo,strapi,tailwind,mysql,sqlite,mongodb,postgres,prisma,neon,drizzle,figma,atom,vercel,render,firebase)](https://skillicons.dev)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
