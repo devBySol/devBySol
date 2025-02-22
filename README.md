@@ -1,6 +1,5 @@
-# Hi, I'm Sol! 👋 
-I'm a full-stack developer passionate about problem-solving and building user-friendly applications. With a background in hospitality, I developed a customer-focused mindset, which I now apply to web development.  
-I love collaborating, learning new technologies, and turning ideas into impactful solutions.
+## Hi, I'm Sol! 👋 
+I'm a full-stack developer passionate about problem-solving and building user-friendly applications. With a background in hospitality, I developed a customer-focused mindset, which I now apply to web development. I love collaborating, learning new technologies, and turning ideas into impactful solutions.
 
 ---
 
