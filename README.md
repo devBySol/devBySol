@@ -42,6 +42,6 @@ I'm a full-stack developer passionate about problem-solving and building user-fr
 ---
 
 ## 📊 **GitHub Stats**
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devBySol&layout=compact" alt="Top Languages" />
 </p>
