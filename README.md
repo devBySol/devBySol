@@ -36,7 +36,7 @@ I'm a full-stack developer passionate about problem-solving and building user-fr
 ---
 
 ## 📫 **How to reach me**
-- ✉️ Email: ykim327@my.bcit.ca  
+- ✉️ Email: fswd.yessir@gmail.com
 - 💼 LinkedIn: [https://www.linkedin.com/in/yeseol/](https://www.linkedin.com/in/yeseol/)  
 
 ---
